@@ -2355,7 +2355,6 @@
                     </h4>
                 </a>
             </div>
-
             <div class="computer_box5">
                 <div class="box5_1">
                     <a href="#">
@@ -2457,7 +2456,6 @@
                         </div>
                     </div>
                 </div>
-
             </div>
         </div>
     </section>
