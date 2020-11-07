@@ -1,0 +1,634 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>列表頁-专业的综合网上购物商城</title>
+    <meta name="description"
+        content="品优购商城-专业的综合网上购物商城,销售家电、数码通讯、电脑、家居百货、服装服饰、母婴、图书、食品等数万个品牌优质商品.便捷、诚信的服务，为您提供愉悦的网上购物体验!">
+    <meta name="keywords" content="网上购物,网上商城,手机,笔记本,电脑,MP3,CD,VCD,DV,相机,数码,配件,手表,存储卡,京东">
+    <link rel="shortcut icon" href="favicon.ico" />
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/common.css">
+    <link rel="stylesheet" href="css/list.css">
+</head>
+
+<body>
+    <!-- overtop錨點 -->
+    <div id="overtop"></div>
+    <!-- 快捷導航欄 start -->
+    <div class="shortcut">
+        <div class="w">
+            <div class="shortcutleft">
+                <span>品优购欢迎您！</span>
+                <span><a href="#">请登录</a></span>
+                <span><a href="#" class="red">免费注册</a></span>
+            </div>
+            <div class="shortcutright">
+                <span><a href="#">我的订单</a></span>
+                <span><a href="#">我的品优购&nbsp;</a></span>
+                <span><a href="#">品优购会员</a></span>
+                <span><a href="#">企业采购</a></span>
+                <span><a href="#">关注品优购&nbsp;</a></span>
+                <span><a href="#">客户服务&nbsp;</a></span>
+                <span><a href="#" class="right">网站导航&nbsp;</a></span>
+            </div>
+        </div>
+    </div>
+    <!-- 快捷導航欄 end -->
+    <!-- header start -->
+    <header class="w header">
+        <div class="logo">
+            <h1>
+                <a href="#" title="品優購">品優購</a>
+            </h1>
+        </div>
+        <div class="mk">
+            <img src="./images/list_miasa.png" alt="">
+        </div>
+        <div class="search">
+            <input type="search" placeholder="請輸入文字"><a href="#"><button>搜索</button></a>
+            <ul class="hotwords">
+                <li><a href="#" class="style_red">优惠购首发</a></li>
+                <li><a href="#">亿元优惠</a></li>
+                <li><a href="#">9.9元团购</a></li>
+                <li><a href="#">美满99减30</a></li>
+                <li><a href="#">办公用品</a></li>
+                <li><a href="#">电脑</a></li>
+                <li><a href="#">通信</a></li>
+            </ul>
+        </div>
+        <div class="shopcar">
+            <a href="#">我的购物车</a><span class="amount">8</span>
+        </div>
+    </header>
+    <!-- header end -->
+    <!-- 導航欄 start -->
+    <nav class="w nav">
+        <div class="nav_box2">
+            <ul>
+                <li><a href="#"><strong>品優秒殺</strong></a></li>
+                <li><a href="#"><strong>即将售罄</strong></a></li>
+                <li><a href="#"><strong>超值低价</strong></a></li>
+            </ul>
+        </div>
+        <ul class="nav_box">
+            <li><a href="#" class="left">女装</a></li>
+            <li><a href="#" class="style_red">女鞋</a></li>
+            <li><a href="#">男装</a></li>
+            <li><a href="#">男鞋</a></li>
+            <li><a href="#">母婴童装</a></li>
+            <li><a href="#">食品</a></li>
+            <li><a href="#">智能数码</a></li>
+            <li><a href="#">运动户外</a></li>
+            <li><a href="#" class="more">更多分类</a></li>
+        </ul>
+    </nav>
+    <!-- 導航欄 end -->
+    <!-- 側邊移動欄 start -->
+    <div class="move">
+        <a href="#overtop">
+            <div class="top">TOP</div>
+        </a>
+        <li></li>
+        <a href="#">
+            <div class="bottom"></div>
+        </a>
+    </div>
+    <!-- 側邊移動欄 end -->
+    <!-- banner start -->
+    <div class="w banner">
+        <a href="#">
+            <img src="../shopping/images/images/images/list_banner_03.jpg" alt="女鞋">
+        </a>
+    </div>
+    <!-- banner end -->
+    <!-- list goods start -->
+    <section class="w listgoods clearfix">
+        <div class="goodsbox">
+            <a href="#">
+                <img src="../shopping/images/list_goods.png" alt="">
+                <h4>Apple苹果iPhone 6s Plus(A1699)32G 金色 移动联通电信4G手机</h4>
+                <div class="price">
+                    <span><strong>¥6088</strong></span><span class="cancel"><del><strong>￥6988</strong></del></span>
+                </div>
+                <div class="count">
+                    已售87%
+                    <div>
+                        <li></li>
+                    </div>
+                    剩餘<i class="style_red">29</i>件
+                </div>
+                <button><strong>立即搶購</strong></button>
+            </a>
+        </div>
+        <div class="goodsbox">
+            <a href="#">
+                <img src="../shopping/images/list_goods.png" alt="">
+                <h4>Apple苹果iPhone 6s Plus(A1699)32G 金色 移动联通电信4G手机</h4>
+                <div class="price">
+                    <span><strong>¥6088</strong></span><span class="cancel"><del><strong>￥6988</strong></del></span>
+                </div>
+                <div class="count">
+                    已售87%
+                    <div>
+                        <li></li>
+                    </div>
+                    剩餘<i class="style_red">29</i>件
+                </div>
+                <button><strong>立即搶購</strong></button>
+            </a>
+        </div>
+        <div class="goodsbox">
+            <a href="#">
+                <img src="../shopping/images/list_goods.png" alt="">
+                <h4>Apple苹果iPhone 6s Plus(A1699)32G 金色 移动联通电信4G手机</h4>
+                <div class="price">
+                    <span><strong>¥6088</strong></span><span class="cancel"><del><strong>￥6988</strong></del></span>
+                </div>
+                <div class="count">
+                    已售87%
+                    <div>
+                        <li></li>
+                    </div>
+                    剩餘<i class="style_red">29</i>件
+                </div>
+                <button><strong>立即搶購</strong></button>
+            </a>
+        </div>
+        <div class="goodsbox">
+            <a href="#">
+                <img src="../shopping/images/list_goods.png" alt="">
+                <h4>Apple苹果iPhone 6s Plus(A1699)32G 金色 移动联通电信4G手机</h4>
+                <div class="price">
+                    <span><strong>¥6088</strong></span><span class="cancel"><del><strong>￥6988</strong></del></span>
+                </div>
+                <div class="count">
+                    已售87%
+                    <div>
+                        <li></li>
+                    </div>
+                    剩餘<i class="style_red">29</i>件
+                </div>
+                <button><strong>立即搶購</strong></button>
+            </a>
+        </div>
+        <div class="goodsbox">
+            <a href="#">
+                <img src="../shopping/images/list_goods.png" alt="">
+                <h4>Apple苹果iPhone 6s Plus(A1699)32G 金色 移动联通电信4G手机</h4>
+                <div class="price">
+                    <span><strong>¥6088</strong></span><span class="cancel"><del><strong>￥6988</strong></del></span>
+                </div>
+                <div class="count">
+                    已售87%
+                    <div>
+                        <li></li>
+                    </div>
+                    剩餘<i class="style_red">29</i>件
+                </div>
+                <button><strong>立即搶購</strong></button>
+            </a>
+        </div>
+        <div class="goodsbox">
+            <a href="#">
+                <img src="../shopping/images/list_goods.png" alt="">
+                <h4>Apple苹果iPhone 6s Plus(A1699)32G 金色 移动联通电信4G手机</h4>
+                <div class="price">
+                    <span><strong>¥6088</strong></span><span class="cancel"><del><strong>￥6988</strong></del></span>
+                </div>
+                <div class="count">
+                    已售87%
+                    <div>
+                        <li></li>
+                    </div>
+                    剩餘<i class="style_red">29</i>件
+                </div>
+                <button><strong>立即搶購</strong></button>
+            </a>
+        </div>
+        <div class="goodsbox">
+            <a href="#">
+                <img src="../shopping/images/list_goods.png" alt="">
+                <h4>Apple苹果iPhone 6s Plus(A1699)32G 金色 移动联通电信4G手机</h4>
+                <div class="price">
+                    <span><strong>¥6088</strong></span><span class="cancel"><del><strong>￥6988</strong></del></span>
+                </div>
+                <div class="count">
+                    已售87%
+                    <div>
+                        <li></li>
+                    </div>
+                    剩餘<i class="style_red">29</i>件
+                </div>
+                <button><strong>立即搶購</strong></button>
+            </a>
+        </div>
+        <div class="goodsbox">
+            <a href="#">
+                <img src="../shopping/images/list_goods.png" alt="">
+                <h4>Apple苹果iPhone 6s Plus(A1699)32G 金色 移动联通电信4G手机</h4>
+                <div class="price">
+                    <span><strong>¥6088</strong></span><span class="cancel"><del><strong>￥6988</strong></del></span>
+                </div>
+                <div class="count">
+                    已售87%
+                    <div>
+                        <li></li>
+                    </div>
+                    剩餘<i class="style_red">29</i>件
+                </div>
+                <button><strong>立即搶購</strong></button>
+            </a>
+        </div>
+        <div class="goodsbox">
+            <a href="#">
+                <img src="../shopping/images/list_goods.png" alt="">
+                <h4>Apple苹果iPhone 6s Plus(A1699)32G 金色 移动联通电信4G手机</h4>
+                <div class="price">
+                    <span><strong>¥6088</strong></span><span class="cancel"><del><strong>￥6988</strong></del></span>
+                </div>
+                <div class="count">
+                    已售87%
+                    <div>
+                        <li></li>
+                    </div>
+                    剩餘<i class="style_red">29</i>件
+                </div>
+                <button><strong>立即搶購</strong></button>
+            </a>
+        </div>
+        <div class="goodsbox">
+            <a href="#">
+                <img src="../shopping/images/list_goods.png" alt="">
+                <h4>Apple苹果iPhone 6s Plus(A1699)32G 金色 移动联通电信4G手机</h4>
+                <div class="price">
+                    <span><strong>¥6088</strong></span><span class="cancel"><del><strong>￥6988</strong></del></span>
+                </div>
+                <div class="count">
+                    已售87%
+                    <div>
+                        <li></li>
+                    </div>
+                    剩餘<i class="style_red">29</i>件
+                </div>
+                <button><strong>立即搶購</strong></button>
+            </a>
+        </div>
+        <div class="goodsbox">
+            <a href="#">
+                <img src="../shopping/images/list_goods.png" alt="">
+                <h4>Apple苹果iPhone 6s Plus(A1699)32G 金色 移动联通电信4G手机</h4>
+                <div class="price">
+                    <span><strong>¥6088</strong></span><span class="cancel"><del><strong>￥6988</strong></del></span>
+                </div>
+                <div class="count">
+                    已售87%
+                    <div>
+                        <li></li>
+                    </div>
+                    剩餘<i class="style_red">29</i>件
+                </div>
+                <button><strong>立即搶購</strong></button>
+            </a>
+        </div>
+        <div class="goodsbox">
+            <a href="#">
+                <img src="../shopping/images/list_goods.png" alt="">
+                <h4>Apple苹果iPhone 6s Plus(A1699)32G 金色 移动联通电信4G手机</h4>
+                <div class="price">
+                    <span><strong>¥6088</strong></span><span class="cancel"><del><strong>￥6988</strong></del></span>
+                </div>
+                <div class="count">
+                    已售87%
+                    <div>
+                        <li></li>
+                    </div>
+                    剩餘<i class="style_red">29</i>件
+                </div>
+                <button><strong>立即搶購</strong></button>
+            </a>
+        </div>
+        <div class="goodsbox">
+            <a href="#">
+                <img src="../shopping/images/list_goods.png" alt="">
+                <h4>Apple苹果iPhone 6s Plus(A1699)32G 金色 移动联通电信4G手机</h4>
+                <div class="price">
+                    <span><strong>¥6088</strong></span><span class="cancel"><del><strong>￥6988</strong></del></span>
+                </div>
+                <div class="count">
+                    已售87%
+                    <div>
+                        <li></li>
+                    </div>
+                    剩餘<i class="style_red">29</i>件
+                </div>
+                <button><strong>立即搶購</strong></button>
+            </a>
+        </div>
+        <div class="goodsbox">
+            <a href="#">
+                <img src="../shopping/images/list_goods.png" alt="">
+                <h4>Apple苹果iPhone 6s Plus(A1699)32G 金色 移动联通电信4G手机</h4>
+                <div class="price">
+                    <span><strong>¥6088</strong></span><span class="cancel"><del><strong>￥6988</strong></del></span>
+                </div>
+                <div class="count">
+                    已售87%
+                    <div>
+                        <li></li>
+                    </div>
+                    剩餘<i class="style_red">29</i>件
+                </div>
+                <button><strong>立即搶購</strong></button>
+            </a>
+        </div>
+        <div class="goodsbox">
+            <a href="#">
+                <img src="../shopping/images/list_goods.png" alt="">
+                <h4>Apple苹果iPhone 6s Plus(A1699)32G 金色 移动联通电信4G手机</h4>
+                <div class="price">
+                    <span><strong>¥6088</strong></span><span class="cancel"><del><strong>￥6988</strong></del></span>
+                </div>
+                <div class="count">
+                    已售87%
+                    <div>
+                        <li></li>
+                    </div>
+                    剩餘<i class="style_red">29</i>件
+                </div>
+                <button><strong>立即搶購</strong></button>
+            </a>
+        </div>
+        <div class="goodsbox">
+            <a href="#">
+                <img src="../shopping/images/list_goods.png" alt="">
+                <h4>Apple苹果iPhone 6s Plus(A1699)32G 金色 移动联通电信4G手机</h4>
+                <div class="price">
+                    <span><strong>¥6088</strong></span><span class="cancel"><del><strong>￥6988</strong></del></span>
+                </div>
+                <div class="count">
+                    已售87%
+                    <div>
+                        <li></li>
+                    </div>
+                    剩餘<i class="style_red">29</i>件
+                </div>
+                <button><strong>立即搶購</strong></button>
+            </a>
+        </div>
+        <div class="goodsbox">
+            <a href="#">
+                <img src="../shopping/images/list_goods.png" alt="">
+                <h4>Apple苹果iPhone 6s Plus(A1699)32G 金色 移动联通电信4G手机</h4>
+                <div class="price">
+                    <span><strong>¥6088</strong></span><span class="cancel"><del><strong>￥6988</strong></del></span>
+                </div>
+                <div class="count">
+                    已售87%
+                    <div>
+                        <li></li>
+                    </div>
+                    剩餘<i class="style_red">29</i>件
+                </div>
+                <button><strong>立即搶購</strong></button>
+            </a>
+        </div>
+        <div class="goodsbox">
+            <a href="#">
+                <img src="../shopping/images/list_goods.png" alt="">
+                <h4>Apple苹果iPhone 6s Plus(A1699)32G 金色 移动联通电信4G手机</h4>
+                <div class="price">
+                    <span><strong>¥6088</strong></span><span class="cancel"><del><strong>￥6988</strong></del></span>
+                </div>
+                <div class="count">
+                    已售87%
+                    <div>
+                        <li></li>
+                    </div>
+                    剩餘<i class="style_red">29</i>件
+                </div>
+                <button><strong>立即搶購</strong></button>
+            </a>
+        </div>
+        <div class="goodsbox">
+            <a href="#">
+                <img src="../shopping/images/list_goods.png" alt="">
+                <h4>Apple苹果iPhone 6s Plus(A1699)32G 金色 移动联通电信4G手机</h4>
+                <div class="price">
+                    <span><strong>¥6088</strong></span><span class="cancel"><del><strong>￥6988</strong></del></span>
+                </div>
+                <div class="count">
+                    已售87%
+                    <div>
+                        <li></li>
+                    </div>
+                    剩餘<i class="style_red">29</i>件
+                </div>
+                <button><strong>立即搶購</strong></button>
+            </a>
+        </div>
+        <div class="goodsbox">
+            <a href="#">
+                <img src="../shopping/images/list_goods.png" alt="">
+                <h4>Apple苹果iPhone 6s Plus(A1699)32G 金色 移动联通电信4G手机</h4>
+                <div class="price">
+                    <span><strong>¥6088</strong></span><span class="cancel"><del><strong>￥6988</strong></del></span>
+                </div>
+                <div class="count">
+                    已售87%
+                    <div>
+                        <li></li>
+                    </div>
+                    剩餘<i class="style_red">29</i>件
+                </div>
+                <button><strong>立即搶購</strong></button>
+            </a>
+        </div>
+        <div class="goodsbox">
+            <a href="#">
+                <img src="../shopping/images/list_goods.png" alt="">
+                <h4>Apple苹果iPhone 6s Plus(A1699)32G 金色 移动联通电信4G手机</h4>
+                <div class="price">
+                    <span><strong>¥6088</strong></span><span class="cancel"><del><strong>￥6988</strong></del></span>
+                </div>
+                <div class="count">
+                    已售87%
+                    <div>
+                        <li></li>
+                    </div>
+                    剩餘<i class="style_red">29</i>件
+                </div>
+                <button><strong>立即搶購</strong></button>
+            </a>
+        </div>
+        <div class="goodsbox">
+            <a href="#">
+                <img src="../shopping/images/list_goods.png" alt="">
+                <h4>Apple苹果iPhone 6s Plus(A1699)32G 金色 移动联通电信4G手机</h4>
+                <div class="price">
+                    <span><strong>¥6088</strong></span><span class="cancel"><del><strong>￥6988</strong></del></span>
+                </div>
+                <div class="count">
+                    已售87%
+                    <div>
+                        <li></li>
+                    </div>
+                    剩餘<i class="style_red">29</i>件
+                </div>
+                <button><strong>立即搶購</strong></button>
+            </a>
+        </div>
+        <div class="goodsbox">
+            <a href="#">
+                <img src="../shopping/images/list_goods.png" alt="">
+                <h4>Apple苹果iPhone 6s Plus(A1699)32G 金色 移动联通电信4G手机</h4>
+                <div class="price">
+                    <span><strong>¥6088</strong></span><span class="cancel"><del><strong>￥6988</strong></del></span>
+                </div>
+                <div class="count">
+                    已售87%
+                    <div>
+                        <li></li>
+                    </div>
+                    剩餘<i class="style_red">29</i>件
+                </div>
+                <button><strong>立即搶購</strong></button>
+            </a>
+        </div>
+        <div class="goodsbox">
+            <a href="#">
+                <img src="../shopping/images/list_goods.png" alt="">
+                <h4>Apple苹果iPhone 6s Plus(A1699)32G 金色 移动联通电信4G手机</h4>
+                <div class="price">
+                    <span><strong>¥6088</strong></span><span class="cancel"><del><strong>￥6988</strong></del></span>
+                </div>
+                <div class="count">
+                    已售87%
+                    <div>
+                        <li></li>
+                    </div>
+                    剩餘<i class="style_red">29</i>件
+                </div>
+                <button><strong>立即搶購</strong></button>
+            </a>
+        </div>
+    </section>
+    <!-- list goods end -->
+    <!-- footer start-->
+    <footer class="footer">
+        <!-- 服務 -->
+        <div class="w mod_service ">
+            <ul>
+                <li>
+                    <div class="pic_sprite1"></div>
+                    <span>
+                        <h4>正品保障</h4>正品保障，提供發票
+                    </span>
+                </li>
+                <li>
+                    <div class="pic_sprite2"></div>
+                    <span>
+                        <h4>極速物流</h4>極速物流，極速運送
+                    </span>
+                </li>
+                <li>
+                    <div class="pic_sprite3"></div>
+                    <span>
+                        <h4>無憂售後</h4>7天无理由退换货
+                    </span>
+                </li>
+                <li>
+                    <div class="pic_sprite4"></div>
+                    <span>
+                        <h4>特色服務</h4>私人定制家电套餐
+                    </span>
+                </li>
+                <li>
+                    <div class="pic_sprite5"></div>
+                    <span>
+                        <h4>幫助中心</h4>您的購物指南
+                    </span>
+                </li>
+            </ul>
+        </div>
+        <!-- 幫助 -->
+        <div class="w mod_help">
+            <dl>
+                <dt>購物指南
+                <dd><a href="#">購物流程</a></dd>
+                <dd><a href="#">會員介紹</a></dd>
+                <dd><a href="#">生活旅行/團購</a></dd>
+                <dd><a href="#">常見問題</a></dd>
+                <dd><a href="#">大家電</a></dd>
+                <dd><a href="#">聯繫客服</a></dd>
+                </dt>
+            </dl>
+            <dl>
+                <dt>配送方式
+                <dd><a href="#">上禮自提</a></dd>
+                <dd><a href="#">211限時送</a></dd>
+                <dd><a href="#">配送服務查詢</a></dd>
+                <dd><a href="#">配送收費取標準</a></dd>
+                <dd><a href="#">海外配送</a></dd>
+                </dt>
+            </dl>
+            <dl>
+                <dt>支付方式
+                <dd><a href="#">購貨到付款</a></dd>
+                <dd><a href="#">到線支付</a></dd>
+                <dd><a href="#">分期付款</a></dd>
+                <dd><a href="#">郵局匯款</a></dd>
+                <dd><a href="#">公司轉帳</a></dd>
+                </dt>
+            </dl>
+            <dl>
+                <dt>售後服務
+                <dd><a href="#">售後政策</a></dd>
+                <dd><a href="#">價格辯護</a></dd>
+                <dd><a href="#">退款說明</a></dd>
+                <dd><a href="#">返修/退換貨</a></dd>
+                <dd><a href="#">取消訂單</a></dd>
+                </dt>
+            </dl>
+            <dl>
+                <dt>特色服務
+                <dd><a href="#">奪寶島</a></dd>
+                <dd><a href="#">會DIY裝機</a></dd>
+                <dd><a href="#">延保服務</a></dd>
+                <dd><a href="#">品優購E卡</a></dd>
+                <dd><a href="#">品優購通信</a></dd>
+                </dt>
+            </dl>
+            <div>
+                <h4>幫助中心</h4>
+                <img src="./images/images/qrcode_07.jpg">
+                品優購客戶端
+            </div>
+        </div>
+        <!-- 關於我們 -->
+        <div class="w mod_copyright">
+            <ul>
+                <li><a href="#">关于我们</a></li>
+                <li><a href="#">联系我们</a></li>
+                <li><a href="#">联系客服</a></li>
+                <li><a href="#">商家入驻</a></li>
+                <li><a href="#">营销中心</a></li>
+                <li><a href="#">手机品优购</a></li>
+                <li><a href="#">友情链接</a></li>
+                <li><a href="#">销售联盟</a></li>
+                <li><a href="#">品优购社区</a></li>
+                <li><a href="#">品优购公益</a></li>
+                <li><a href="#">English Site</a></li>
+                <li><a href="#">Contact U</a></li>
+            </ul><br />
+            <div>地址：北京市昌平区建材城西路金燕龙办公楼一层 邮编：100096 电话：400-618-4000 传真：010-82935100 邮箱: zhanghj+itcast.cn</div>
+            <div>京ICP备08001421号京公网安备110108007702</div>
+        </div>
+    </footer>
+    <!-- footer end-->
+
+</body>
+
+</html>
